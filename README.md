@@ -1,7 +1,6 @@
 # myGAN
 learn GAN through self-taught
 ## 1. DCGAN
-<<<<<<< HEAD
 architecture:
 ![img.png](imgs/img.png)
 result:
