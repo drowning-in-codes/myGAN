@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="D:\anaconda\Scripts\black.exe" />
+    <option name="sdkUUID" value="7d845c14-0754-42b3-b3a3-e63c43f530e6" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="gan" project-jdk-type="Python SDK" />
+</project>
