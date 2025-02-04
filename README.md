@@ -14,7 +14,7 @@ architecture:
 
 ![image-20250204142009078](https://s2.loli.net/2025/02/04/pC9ljS61VoDYaWh.png)
 
-find the code at [my kaggle](https://www.kaggle.com/code/calhouns/stylegan)
+find the code at [my kaggle](https://www.kaggle.com/code/calhouns/stylegan) and the trained model in `examples/stylegan/trained_`.
 
 ## 4.GigaGAN
 
